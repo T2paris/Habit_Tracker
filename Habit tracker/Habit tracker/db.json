@@ -1,0 +1,1911 @@
+{
+  "users": [
+    {
+      "id": "3f76",
+      "name": "Pedrão",
+      "email": "pedro@gmail.com",
+      "password": "1234",
+      "xp": 30,
+      "level": 1,
+      "habits": [
+        {
+          "id": "f8cc2401-4027-4515-92dc-600454cf73ac",
+          "title": "suplementar",
+          "category": "Saúde",
+          "type": "Diário",
+          "target": 30,
+          "progress": 3,
+          "createdAt": "2026-01-25T09:54:02.248Z",
+          "schedule": {
+            "freq": "daily",
+            "every": 1,
+            "times": 1,
+            "duration": 30,
+            "start": "2026-01-25"
+          },
+          "occurrences": {
+            "2026-01-25": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-26": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-27": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-01-28": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-01-29": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-01-30": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-01-31": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-01": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-02": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-03": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-05": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-07": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-10": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-12": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-14": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-17": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-19": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-21": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 1,
+              "done": 0
+            }
+          },
+          "frequency": "Diário",
+          "times": 1,
+          "weeks": 4,
+          "daysOfWeek": [],
+          "annualDay": null,
+          "annualMonth": null
+        },
+        {
+          "id": "65b2897c-0dbd-4fa7-a86b-99989f12b0c8",
+          "title": "estudar",
+          "category": "Escola",
+          "type": "Mensal",
+          "target": 30,
+          "progress": 3,
+          "createdAt": "2026-01-25T09:35:36.104Z",
+          "schedule": {
+            "freq": "daily",
+            "every": 1,
+            "times": 1,
+            "duration": 30,
+            "start": "2026-01-25"
+          },
+          "occurrences": {
+            "2026-01-25": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-26": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-27": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-01-28": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-01-29": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-01-30": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-01-31": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-01": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-02": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-03": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-05": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-07": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-10": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-12": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-14": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-17": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-19": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-21": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 1,
+              "done": 0
+            }
+          },
+          "frequency": "Mensal",
+          "times": 1,
+          "weeks": 4,
+          "daysOfWeek": [],
+          "annualDay": null,
+          "annualMonth": null
+        },
+        {
+          "id": "bcd4eaeb-bae2-4484-baca-1d5e12ec613f",
+          "title": "nadar",
+          "category": "Treino",
+          "type": "Diário",
+          "target": 30,
+          "progress": 8,
+          "createdAt": "2026-01-25T08:36:25.345Z",
+          "schedule": {
+            "freq": "daily",
+            "every": 1,
+            "times": 1,
+            "duration": 30,
+            "start": "2026-01-25"
+          },
+          "occurrences": {
+            "2026-01-25": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-26": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-27": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-28": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-29": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-30": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-31": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-01": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-02": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-03": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-05": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-07": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-10": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-12": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-14": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-17": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-19": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-21": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 1,
+              "done": 0
+            }
+          },
+          "frequency": "Diário",
+          "times": 1,
+          "weeks": 4,
+          "daysOfWeek": [],
+          "annualDay": null,
+          "annualMonth": null
+        },
+        {
+          "id": "2bf604c6-e5f6-4ab2-a9ba-6fd72ce701cd",
+          "title": "exame",
+          "type": "Diário",
+          "target": 30,
+          "progress": 8,
+          "startDate": "2026-01-10T23:43:50.985Z",
+          "createdAt": "2026-01-10T23:43:50.986Z",
+          "category": "Outro",
+          "schedule": {
+            "freq": "daily",
+            "every": 1,
+            "times": 1,
+            "duration": 30,
+            "start": "2026-01-25"
+          },
+          "occurrences": {
+            "2026-01-25": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-26": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-27": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-28": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-29": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-30": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-31": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-01": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-02": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-03": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-05": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-07": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-10": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-12": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-14": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-17": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-19": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-21": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 1,
+              "done": 0
+            }
+          },
+          "frequency": "Diário",
+          "times": 1,
+          "weeks": 4,
+          "daysOfWeek": [],
+          "annualDay": null,
+          "annualMonth": null
+        },
+        {
+          "id": "8fc6903c-33d4-496c-829e-463317e8f3ea",
+          "title": "sprint",
+          "type": "Semanal",
+          "target": 30,
+          "progress": 8,
+          "startDate": "2026-01-10T18:11:52.987Z",
+          "createdAt": "2026-01-10T18:11:52.987Z",
+          "category": "Outro",
+          "schedule": {
+            "freq": "daily",
+            "every": 1,
+            "times": 1,
+            "duration": 30,
+            "start": "2026-01-25"
+          },
+          "occurrences": {
+            "2026-01-25": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-26": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-27": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-28": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-29": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-30": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-31": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-01": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-02": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-03": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-05": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-07": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-10": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-12": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-14": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-17": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-19": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-21": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 1,
+              "done": 0
+            }
+          },
+          "frequency": "Semanal",
+          "times": 3,
+          "weeks": 4,
+          "daysOfWeek": [],
+          "annualDay": null,
+          "annualMonth": null
+        },
+        {
+          "id": "5c66cb87-b317-448c-a954-00670be315b6",
+          "title": "carada",
+          "type": "Diário",
+          "target": 30,
+          "progress": 8,
+          "startDate": "2026-01-10T18:10:56.058Z",
+          "createdAt": "2026-01-10T18:10:56.065Z",
+          "category": "Outro",
+          "schedule": {
+            "freq": "daily",
+            "every": 1,
+            "times": 1,
+            "duration": 30,
+            "start": "2026-01-25"
+          },
+          "occurrences": {
+            "2026-01-25": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-26": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-27": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-28": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-29": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-30": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-31": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-01": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-02": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-03": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-05": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-07": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-10": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-12": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-14": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-17": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-19": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-21": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 1,
+              "done": 0
+            }
+          },
+          "frequency": "Diário",
+          "times": 1,
+          "weeks": 4,
+          "daysOfWeek": [],
+          "annualDay": null,
+          "annualMonth": null
+        },
+        {
+          "id": 1768064635549,
+          "title": "ler",
+          "type": "Semanal",
+          "target": 30,
+          "progress": 8,
+          "category": "Outro",
+          "schedule": {
+            "freq": "daily",
+            "every": 1,
+            "times": 1,
+            "duration": 30,
+            "start": "2026-01-25"
+          },
+          "occurrences": {
+            "2026-01-25": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-26": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-27": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-28": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-29": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-30": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-31": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-01": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-02": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-03": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-05": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-07": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-10": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-12": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-14": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-17": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-19": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-21": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 1,
+              "done": 0
+            }
+          },
+          "frequency": "Semanal",
+          "times": 4,
+          "weeks": 4,
+          "daysOfWeek": [],
+          "annualDay": null,
+          "annualMonth": null
+        }
+      ],
+      "activeAvatarId": "starter_scout",
+      "ownedAvatars": [
+        "starter",
+        "focus_monk"
+      ],
+      "completedHabits": 3
+    },
+    {
+      "id": "7199",
+      "name": "jubisvaldo",
+      "email": "jubis@gmail.com",
+      "password": "jubis1234!",
+      "xp": 0,
+      "level": 1
+    },
+    {
+      "id": "27d7",
+      "name": "thiago",
+      "email": "thiago@gmail.com",
+      "password": "t1234!",
+      "avatar": null,
+      "xp": 0,
+      "level": 1
+    },
+    {
+      "id": "ddfe",
+      "name": "thiago",
+      "email": "thiago01@gmail.com",
+      "avatar": "",
+      "xp": 0,
+      "level": 1,
+      "password": "1234"
+    },
+    {
+      "id": "92ed",
+      "name": "Tito",
+      "email": "tito@gmail.com",
+      "password": "1234",
+      "xp": 10,
+      "completedHabits": 1,
+      "ownedAvatars": [
+        "starter"
+      ],
+      "activeAvatarId": "starter",
+      "habits": [
+        {
+          "id": "5232246d-8dd0-4a78-bc39-f90fec92c2aa",
+          "title": "beber",
+          "type": "Diário",
+          "target": 1,
+          "progress": 1,
+          "startDate": "2026-01-11T22:35:43.507Z",
+          "createdAt": "2026-01-11T22:35:43.510Z"
+        }
+      ]
+    },
+    {
+      "id": "275e",
+      "name": "Thiago11",
+      "email": "daluzthiago08@gmail.com",
+      "password": "1234",
+      "xp": 0,
+      "completedHabits": 0,
+      "ownedAvatars": [
+        "starter"
+      ],
+      "activeAvatarId": "starter",
+      "habits": [
+        {
+          "id": "8f04985f-5495-48e3-bee5-1eb5ef0cd94c",
+          "title": "cme",
+          "type": "Semanal",
+          "target": 1,
+          "progress": 1,
+          "startDate": "2026-01-11T21:02:51.875Z",
+          "createdAt": "2026-01-11T21:02:51.876Z"
+        },
+        {
+          "id": "76f90e70-ab2e-4682-98ec-6df42b84b2fd",
+          "title": "train",
+          "type": "Semanal",
+          "target": 3,
+          "progress": 3,
+          "startDate": "2026-01-11T21:00:22.713Z",
+          "createdAt": "2026-01-11T21:00:22.714Z"
+        }
+      ]
+    },
+    {
+      "id": "68ab",
+      "name": "t2paris",
+      "email": "t2paris@gmail.com",
+      "password": "1234",
+      "xp": 0,
+      "completedHabits": 0,
+      "ownedAvatars": [
+        "starter_scout"
+      ],
+      "activeAvatarId": "starter_scout",
+      "habits": [
+        {
+          "id": "2bcc395f-5cdb-489b-97d3-63ccf41e9c4b",
+          "title": "mobilidade",
+          "category": "Pessoal",
+          "type": "Semanal",
+          "target": 10,
+          "progress": 0,
+          "createdAt": "2026-01-25T03:40:39.254Z",
+          "schedule": {
+            "freq": "weekly",
+            "every": 1,
+            "times": 1,
+            "duration": 5,
+            "start": "2026-01-25",
+            "daysOfWeek": [
+              0
+            ]
+          },
+          "occurrences": {
+            "2026-01-25": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-01": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 1,
+              "done": 0
+            }
+          }
+        },
+        {
+          "id": "1bdf2637-e79c-4bbf-a8ae-8eeaf0ecd095",
+          "title": "basket",
+          "category": "Treino",
+          "type": "Semanal",
+          "target": 10,
+          "progress": 0,
+          "createdAt": "2026-01-25T03:38:10.840Z",
+          "schedule": {
+            "freq": "weekly",
+            "every": 1,
+            "times": 3,
+            "duration": 6,
+            "start": "2026-01-25",
+            "daysOfWeek": [
+              1,
+              3,
+              5
+            ]
+          },
+          "occurrences": {
+            "2026-01-26": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-01-28": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-01-30": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-02": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-25": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-27": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-03-02": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-03-04": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-03-06": {
+              "target": 3,
+              "done": 0
+            }
+          }
+        },
+        {
+          "id": "62e51a1b-5b54-45a6-8ec4-e4cbf3cce0ae",
+          "title": "treinar",
+          "type": "Semanal",
+          "target": 1,
+          "progress": 0,
+          "category": "Outro",
+          "startDate": null,
+          "createdAt": "2026-01-25T03:12:10.847Z",
+          "schedule": {
+            "mode": "none"
+          },
+          "occurrences": {}
+        },
+        {
+          "id": "8cb2f1e8-2505-4d83-82f6-fc6fa7c00fc9",
+          "title": "estudar",
+          "type": "Semanal",
+          "target": 3,
+          "progress": 1,
+          "category": "Outro",
+          "startDate": "2026-01-25T02:55:43.986Z",
+          "createdAt": "2026-01-25T02:55:43.991Z",
+          "schedule": {
+            "mode": "none"
+          },
+          "occurrences": {}
+        },
+        {
+          "id": "83806e3d-acd6-43b0-b860-172cc2403967",
+          "title": "dormir",
+          "type": "Semanal",
+          "target": 4,
+          "progress": 1,
+          "startDate": "2026-01-12T16:16:09.739Z",
+          "createdAt": "2026-01-12T16:16:09.739Z",
+          "category": "Outro",
+          "occurrences": {},
+          "schedule": {
+            "mode": "none"
+          }
+        },
+        {
+          "id": "30adce01-c4bd-40ad-a046-d894e4695728",
+          "title": "beber",
+          "type": "Semanal",
+          "target": 3,
+          "progress": 1,
+          "startDate": "2026-01-12T16:15:48.379Z",
+          "createdAt": "2026-01-12T16:15:48.381Z",
+          "category": "Outro",
+          "occurrences": {},
+          "schedule": {
+            "mode": "none"
+          }
+        }
+      ],
+      "categories": [
+        "Sem categoria"
+      ]
+    },
+    {
+      "id": "bd08",
+      "name": "joilson",
+      "email": "jo@gmail.com",
+      "password": "1234",
+      "xp": 20,
+      "completedHabits": 2,
+      "ownedAvatars": [
+        "starter_scout"
+      ],
+      "activeAvatarId": "starter_scout",
+      "habits": [
+        {
+          "id": "b0df9985-cbc4-43a7-a18c-b11106f81968",
+          "title": "treinar",
+          "category": "Treino",
+          "frequency": "Diário",
+          "times": 3,
+          "weeks": 4,
+          "daysOfWeek": [
+            "Wed",
+            "Fri",
+            "Sun"
+          ],
+          "annualDay": null,
+          "annualMonth": null,
+          "startDate": "2026-01-25T22:34:02.251Z",
+          "createdAt": "2026-01-25T22:34:02.251Z",
+          "occurrences": {
+            "2026-01-25": {
+              "target": 3,
+              "done": 3
+            },
+            "2026-01-28": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-01-30": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-01": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 3,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 3,
+              "done": 0
+            }
+          },
+          "type": "Diário",
+          "progress": 3,
+          "target": 39
+        },
+        {
+          "id": "b5a106b0-3001-466c-8589-6591ab862d90",
+          "title": "estudar",
+          "category": "Escola",
+          "frequency": "Semanal",
+          "times": 2,
+          "weeks": 4,
+          "daysOfWeek": [
+            "Wed",
+            "Fri",
+            "Sun"
+          ],
+          "annualDay": null,
+          "annualMonth": null,
+          "startDate": "2026-01-25T22:30:56.494Z",
+          "createdAt": "2026-01-25T22:30:56.494Z",
+          "occurrences": {
+            "2026-01-25": {
+              "target": 2,
+              "done": 2
+            },
+            "2026-01-28": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-01-30": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-02-01": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 2,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 2,
+              "done": 0
+            }
+          },
+          "type": "Semanal",
+          "progress": 2,
+          "target": 26
+        }
+      ]
+    },
+    {
+      "id": "24c3",
+      "name": "Phyroclayton",
+      "email": "phyro12@gmail.com",
+      "password": "12345",
+      "xp": 0,
+      "completedHabits": 3,
+      "ownedAvatars": [
+        "starter_scout",
+        "focus_monk"
+      ],
+      "activeAvatarId": "focus_monk",
+      "habits": [
+        {
+          "id": "68cc4248-a16d-4ad2-9015-a729ab8ba598",
+          "title": "fefef",
+          "category": "Pessoal",
+          "frequency": "Diário",
+          "times": 1,
+          "weeks": 4,
+          "daysOfWeek": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "annualDay": null,
+          "annualMonth": null,
+          "startDate": "2026-01-26T01:44:12.439Z",
+          "createdAt": "2026-01-26T01:44:12.439Z",
+          "occurrences": {
+            "2026-01-26": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-01-28": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-01-30": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-02": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 1,
+              "done": 0
+            }
+          },
+          "type": "Diário",
+          "progress": 1,
+          "target": 13
+        },
+        {
+          "id": "c10e13a7-6c99-4a1a-87c5-72c20ad219e5",
+          "title": "fefewf",
+          "category": "Outro",
+          "frequency": "Mensal",
+          "times": 1,
+          "weeks": 4,
+          "daysOfWeek": [
+            "Mon"
+          ],
+          "annualDay": null,
+          "annualMonth": null,
+          "startDate": "2026-01-26T01:43:33.678Z",
+          "createdAt": "2026-01-26T01:43:33.679Z",
+          "occurrences": {
+            "2026-01-26": {
+              "target": 1,
+              "done": 1
+            },
+            "2026-02-02": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 1,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 1,
+              "done": 0
+            }
+          },
+          "type": "Mensal",
+          "progress": 1,
+          "target": 5
+        },
+        {
+          "id": "6c474857-fca9-4078-b9ff-8913ecf7ffb4",
+          "title": "falacias",
+          "category": "Outro",
+          "frequency": "Mensal",
+          "times": 4,
+          "weeks": 4,
+          "daysOfWeek": [
+            "Sun"
+          ],
+          "annualDay": null,
+          "annualMonth": null,
+          "startDate": "2026-01-26T01:43:09.738Z",
+          "createdAt": "2026-01-26T01:43:09.738Z",
+          "occurrences": {
+            "2026-02-01": {
+              "target": 4,
+              "done": 0
+            },
+            "2026-02-08": {
+              "target": 4,
+              "done": 0
+            },
+            "2026-02-15": {
+              "target": 4,
+              "done": 0
+            },
+            "2026-02-22": {
+              "target": 4,
+              "done": 0
+            }
+          },
+          "type": "Mensal",
+          "progress": 0,
+          "target": 16
+        },
+        {
+          "id": "283dcc46-bff9-4eb6-9ad6-cdba4b6e0a40",
+          "title": "bronha",
+          "category": "Saúde",
+          "frequency": "Diário",
+          "times": 6,
+          "weeks": 12,
+          "daysOfWeek": [
+            "Mon",
+            "Wed",
+            "Fri",
+            "Tue",
+            "Thu"
+          ],
+          "annualDay": null,
+          "annualMonth": null,
+          "startDate": "2026-01-26T01:40:14.992Z",
+          "createdAt": "2026-01-26T01:40:14.993Z",
+          "occurrences": {
+            "2026-01-26": {
+              "target": 6,
+              "done": 6
+            },
+            "2026-01-27": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-01-28": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-01-29": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-01-30": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-02": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-03": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-04": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-05": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-06": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-09": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-10": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-11": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-12": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-13": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-16": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-17": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-18": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-19": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-20": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-23": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-24": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-25": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-26": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-02-27": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-02": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-03": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-04": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-05": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-06": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-09": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-10": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-11": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-12": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-13": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-16": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-17": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-18": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-19": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-20": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-23": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-24": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-25": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-26": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-27": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-30": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-03-31": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-01": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-02": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-03": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-06": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-07": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-08": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-09": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-10": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-13": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-14": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-15": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-16": {
+              "target": 6,
+              "done": 0
+            },
+            "2026-04-17": {
+              "target": 6,
+              "done": 0
+            }
+          },
+          "type": "Diário",
+          "progress": 6,
+          "target": 360
+        }
+      ]
+    }
+  ]
+}
